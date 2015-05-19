@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.dll.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRisk.Context.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRisk.Models.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\EntityFramework.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRisk.Context.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRisk.Models.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\EntityFramework.xml
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.pdb

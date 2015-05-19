@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.dll.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\obj\Release\CreditRiskAssessment.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\obj\Release\CreditRiskAssessment.pdb

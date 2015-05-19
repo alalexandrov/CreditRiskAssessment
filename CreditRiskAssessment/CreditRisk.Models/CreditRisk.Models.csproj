@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{035BD982-6EBD-4AFD-80B9-AF89CE13AA07}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CreditRisk.Models</RootNamespace>
+    <AssemblyName>CreditRisk.Models</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Basic_Data\AgeCategory.cs" />
+    <Compile Include="Basic_Data\ChildrenCategory.cs" />
+    <Compile Include="Basic_Data\EducationCategory.cs" />
+    <Compile Include="CreditPointInterval.cs" />
+    <Compile Include="CreditRiskProfile.cs" />
+    <Compile Include="Working_Experience\ContractCategory.cs" />
+    <Compile Include="Property\DelayedPaymentCategory.cs" />
+    <Compile Include="Working_Experience\LastJobPositionCategory.cs" />
+    <Compile Include="Working_Experience\LastJobWorkingExperienceCategory.cs" />
+    <Compile Include="Basic_Data\MaritalStatusCategory.cs" />
+    <Compile Include="Salary_Income\NetIncomeCategory.cs" />
+    <Compile Include="Property\OtherCreditPaymentCategory.cs" />
+    <Compile Include="Property\OtherDepositCategory.cs" />
+    <Compile Include="Property\OwnCarCategory.cs" />
+    <Compile Include="Property\OwnHomeCategory.cs" />
+    <Compile Include="Basic_Data\PlaceCategory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salary_Income\SocialSecurityIncomeCategory.cs" />
+    <Compile Include="Working_Experience\WorkingExperienceCategory.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

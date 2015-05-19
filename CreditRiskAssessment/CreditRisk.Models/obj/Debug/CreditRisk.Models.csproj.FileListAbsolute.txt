@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Models\bin\Debug\CreditRisk.Models.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Models\bin\Debug\CreditRisk.Models.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Models\obj\Debug\CreditRisk.Models.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Models\obj\Debug\CreditRisk.Models.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Models\obj\Debug\CreditRisk.Models.csprojResolveAssemblyReference.cache

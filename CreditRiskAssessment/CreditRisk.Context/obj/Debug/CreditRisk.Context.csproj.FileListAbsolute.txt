@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Context.dll.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Context.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Context.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Models.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\EntityFramework.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Models.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\EntityFramework.xml
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.pdb
