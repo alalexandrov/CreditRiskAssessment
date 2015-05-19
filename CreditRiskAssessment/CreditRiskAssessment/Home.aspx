@@ -127,7 +127,19 @@
                         <asp:RegularExpressionValidator ID="revOtherDeposits" ControlToValidate="tbOtherDeposits" runat="server" ErrorMessage="*" ValidationExpression="\d+(?:.\d{1,2})?"></asp:RegularExpressionValidator>
 
                         <%-- Delayed Payment Category --%>
-                        <asp:Label ID="lblDelayPayment" CssClass="vladimir" AssociatedControlID="ddlDelayPayment" runat="server" Text="Забавено плащане по кредит: "></asp:Label>
+                         <%-- Delayed Payment Category --%>
+                         <%-- Delayed Payment Category --%>
+                         <%-- Delayed Payment Category --%>
+                                
+                         <%-- Delayed Payment Category --%>     
+                         <%-- Delayed Payment Category --%>             
+                         <%-- Delayed Payment Category --%>
+
+                        <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
+
+                         <%-- Delayed Payment Category --%>
+                         <%-- Delayed Payment Category --%>
+                        <asp:Label ID="lblDelayPayment" AssociatedControlID="ddlDelayPayment" runat="server" Text="Забавено плащане по кредит: "></asp:Label>
                         <asp:DropDownList ID="ddlDelayPayment" DataTextField="Text" DataValueField="ID" runat="server"></asp:DropDownList>
                         <asp:RequiredFieldValidator ID="rfvDelayPayment" ControlToValidate="ddlDelayPayment" runat="server" InitialValue="" ErrorMessage="Задължително поле *"></asp:RequiredFieldValidator>
                     </asp:WizardStep>

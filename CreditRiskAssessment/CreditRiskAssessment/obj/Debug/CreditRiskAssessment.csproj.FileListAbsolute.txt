@@ -12,3 +12,17 @@ C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditR
 C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.csprojResolveAssemblyReference.cache
 C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.dll
 C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.pdb
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.dll.config
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRiskAssessment.pdb
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRisk.Context.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRisk.Models.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\EntityFramework.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\EntityFramework.SqlServer.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRisk.Context.pdb
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\CreditRisk.Models.pdb
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\EntityFramework.xml
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\bin\EntityFramework.SqlServer.xml
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.csprojResolveAssemblyReference.cache
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRiskAssessment\obj\Debug\CreditRiskAssessment.pdb

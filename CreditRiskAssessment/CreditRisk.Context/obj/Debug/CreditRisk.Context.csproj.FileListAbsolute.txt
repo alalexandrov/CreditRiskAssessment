@@ -10,3 +10,15 @@ C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditR
 C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.csprojResolveAssemblyReference.cache
 C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.dll
 C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Client_Server_2\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.pdb
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Context.dll.config
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Context.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Context.pdb
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Models.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\EntityFramework.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\CreditRisk.Models.pdb
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\EntityFramework.xml
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.csprojResolveAssemblyReference.cache
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.dll
+D:\GitHub\CreditRiskAssessment\CreditRiskAssessment\CreditRisk.Context\obj\Debug\CreditRisk.Context.pdb
